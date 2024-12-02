@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Rabat",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-12-02T09:24:28.812Z",
+      "notes": "",
+      "position": {
+        "lat": "33.98638476234069",
+        "lng": "-6.833496093750001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Tangier",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-12-02T09:24:41.704Z",
+      "notes": "ENSA TANGER",
+      "position": {
+        "lat": "35.73618929423714",
+        "lng": "-5.892534255981446"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-02T09:25:52.509Z",
+      "notes": "HALA MADRID",
+      "position": {
+        "lat": "40.39970799542959",
+        "lng": "-3.7243652343750004"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-12-02T10:35:00.093Z",
+      "notes": "",
+      "position": {
+        "lat": "48.852167141120965",
+        "lng": "2.3730468750000004"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Boston",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-12-02T10:36:14.812Z",
+      "notes": "my dream",
+      "position": {
+        "lat": "42.35290518777058",
+        "lng": "-71.06163024902345"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Dubai",
+      "country": "United Arab Emirates (the)",
+      "emoji": "🇦🇪",
+      "date": "2024-12-02T11:14:09.381Z",
+      "notes": "",
+      "position": {
+        "lat": "25.259421365244474",
+        "lng": "55.28594970703126"
+      },
+      "id": 98443203
+    }
+  ]
+}
